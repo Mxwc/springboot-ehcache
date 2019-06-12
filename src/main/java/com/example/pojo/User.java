@@ -5,4 +5,5 @@ package com.example.pojo;
  * @create 2019/6/13
  */
 public class User {
+    private String  name;
 }
